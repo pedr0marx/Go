@@ -1,2 +1,2 @@
 # Go
-Estudo de golang
+Repositório para estudo de golang
