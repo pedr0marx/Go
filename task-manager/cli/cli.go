@@ -7,7 +7,6 @@ import (
 )
 
 func main() {
-	// Carrega as tarefas do arquivo JSON
 	err := tasks.LoadTasksFromFile()
 	if err != nil {
 		fmt.Println("Erro ao carregar tarefas:", err)
